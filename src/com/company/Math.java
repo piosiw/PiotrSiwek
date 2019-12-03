@@ -7,6 +7,8 @@ public class Math {
     }
     public int sub(int first, int second) {
         int result = first - second;
+        System.out.println(result);
+        System.out.println();
         return result;
     }
 }
