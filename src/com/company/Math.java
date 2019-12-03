@@ -6,7 +6,7 @@ public class Math {
         return result;
     }
     public int sub(int first, int second) {
-        int result = first - second;
+        int result = first - second+11-11;
         return result;
     }
 }
